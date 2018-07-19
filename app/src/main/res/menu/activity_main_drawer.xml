@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/first" android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_beranda"
+            android:title="Panduan Wisata Industri"
+            android:icon="@drawable/home"/>
+        <item
+            android:id="@+id/nav_tentangkami"
+            android:title="Tentang PT Dua Kelinci"
+            android:icon="@drawable/ic_label"/>
+        <item
+            android:id="@+id/nav_wisataindustri"
+            android:title="Wisata Industri"
+            android:icon="@drawable/ic_pointer"/>
+        <item
+            android:id="@+id/nav_proses"
+            android:title="Proses Produksi"
+            android:icon="@drawable/ic_hourglass"/>
+        <item
+            android:id="@+id/nav_kios"
+            android:title="Kios DK"
+            android:icon="@drawable/ic_cart"/>
+        <item
+            android:id="@+id/nav_wp"
+            android:title="Waroeng Pati"
+            android:icon="@drawable/ic_theatre"/>
+    </group>
+
+    <group android:id="@+id/second" android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_booking"
+        android:title="Booking"
+        android:icon="@drawable/calendar"/>
+    <item
+        android:id="@+id/nav_syarat"
+        android:title="Syarat dan Ketentuan"
+        android:icon="@drawable/attention"/>
+    <item
+        android:id="@+id/nav_hubungikami"
+        android:title="Hubungi Kami"
+        android:icon="@drawable/contact"/>
+
+</group>
+    </menu>

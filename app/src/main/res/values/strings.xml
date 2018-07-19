@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Panduan Wisata Industri</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_add_route">AddRouteActivity</string>
+    <string name="txt_from">Posisi Awal</string>
+    <string name="title_activity_add_map">Map</string>
+    <string name="txt_liburan">PT Dua Kelinci</string>
+    <string name="title_activity_view_route">Map</string>
+    <string name="deskripsiwi">Wisata Industri adalah kegiatan dimana peserta akan mendapatkan   informasi
+      tentang   sejarah dari PT Dua Kelinci ,gambaran proses produksi dengan mesin canggih buatan sendiri,
+        serta pengalaman tentang manajemen industri. Selain itu peserta akan diajak berkeliling pabrik melihat
+        langsung proses produksi khususnya kacang garing </string>
+    <string name="latarbelkanangwi">Sebagai perusahaan profesional dengan local value yang terpelihara dengan baik, PT. Dua Kelinci
+menyadari jalinan persahabatan dan komunikasi yang kuat dengan masyarakat luas. Wisata Industri merupakan gagasan unik
+        dan kreatif PT. Dua Kelinci dalama berbagi  dengan masyarakat umum.</string>
+    <string name="bentukkegiatanwi">Wisata Industri adalah sebuah kegiatan yang  dikemas secara ringan dalam nuansa rekreasi,
+        namun sarat ilmu pengetahuan dan nilai sejarah yang sangat menginspirasi.
+        Di wisata industri ini, PT. Dua Kelinci memberikan secara gratis pengalaman dan
+        pengetahuan dimana masyarakat dapat mengenal lebih dalam tentang dunia bisnis atau industri
+        makanan dan minuman. Peserta akan diajak berkeliling pabrik melihat langsung proses produksi khususnya kacang garing.
+        Selain itu peserta juga berkesempatan berkunjung ke Kios Dua Kelinci dan Waroeng Pati.  </string>
+    <string name="deskripsiwp">Berangkat dari semangat melestarikan budaya leluhur,  PT Dua Kelinci mewujudkan
+    kecintaanya kepada kota Pati dengan membangun sebuah resto berarsitektur kuno ala rumah bangsawan jawa.
+    Resto ini sudah berdiri sejak tahun 2010</string>
+    <string name="deskripsiwp2">Berbagia menu masakan dan minuman dihadirkan di resto waroeng pati.
+        Tidak ketinggalan, resto Waroeng Pati juga menawarkan  nasi gandul khas pati </string>
+    <string name="deskripsikios">
+        Kompleks pabrik Dua Kelinci memiliki luas sekitar 12 hektar di kota Pati, Jawa Tengah.
+        Kompleks ini meliputi enam gudang untuk mengelola bahan, dua bangunan kantor, gedung tamu,
+        fasilitas staf, dan Kios Kelinci.
+Hadi Sutiono, pemilik Dua Kelinci membangun keberhasilannya bersama dengan istrinya Noer Wahju Budiman.
+        Ibu Noer-lah yang merancang desain dan lanskap dari kompleks pabrik sehingga kini menjadi salah
+        satu ikon di kota Pati, dengan unsur kebudayaan Jawa dan Bali. Beliau juga ikut serta dalam
+        mendesain Kios Kelinci sehingga para pengunjung pabrik dapat membeli makanan ringan dan oleh-oleh.
+            </string>
+    <string name="deskripsiproses1">Sebagai bentuk untuk menunjang produksi, PT Dua Kelinci memiliki
+        fasilitas penelitian canggih, termasuk laboratorium mikrobiologi, kimia makanan,
+        pengujian organoleptik hingga pengolahan limbah. Laboratorium tersebut dijalankan oleh
+        staf dan para ahli teknologi pangan serta mikrobiologi yang berpengalaman.
+        Laboratorium Dua Kelinci juga memiliki jaminan mutu internasional.</string>
+    <string name="deskripsiproses2">Demi memenuhi kepuasan konsumen, seluruh produk Dua Kelinci
+        diproses dengan cara terbaik, melalui standar pengawasan yang ketat. Pengawasan dilakukan
+        secara khusus oleh Divisi Quality Control (QC) dan Quality Assurance (QA) yang menerapkan
+        standar ketat, mulai dari pengadaan bahan baku hingga distribusi produk jadi.
+
+Sebagai bukti, Dua Kelinci dianugerahi sertifikat HAACP, Good Manufacturing Practices,
+        Quality Management System ISO 9001: 2008, dan Food Safety Management ISO 22000: 2005.</string>
+    <string name="sejarah">Sejarah Dua Kelinci berawal dari kiprah dua tokoh yakni Hoe Sie Ak dan Lauw Bie Giok.
+        Awalnya, Ho Sie Ak dan Lauw Bie Giok membuat pabrik kacang kemasan untuk menampung hasil panen para petani.
+        Pada 1972, kacang kemasan itu diberi merk ‘Sari Gurih’ dengan logo gambar dua kelinci.Pada 1982, Sari Gurih
+        berganti nama menjadi Dua Kelinci. Merk ini kemudian mendapatkan hak paten pada 1985 dan perusahaannya diberi
+        nama PT Dua Kelinci.Dua bersaudara Ali Arifin dan Hadi Sutiono kemudian memperbaharui bisnis Dua Kelinci,
+        dari produsen makanan kemasan menjadi pabrik pengolahan berteknologi tinggi. Keduanya fokus pada bisnis pengolahan komoditas kacang asli Indonesia,
+        khususnya yang dihasilkan di sekitar Pulau Jawa dan Bali.Saat ini PT Dua Kelinci dikenal sebagai perusahaan
+        besar dengan produk-produk yang inovatif.  </string>
+    <string name="pasar">Kekuatan utama PT Dua Kelinci adalah fokus pada performa tinggi serta manajemen yang inovatif.
+        PT Dua Kelinci berupaya menjadi brand kelas dunia dengan terus memperkuat jaringan lokal dan global.PT Dua Kelinci
+        telah berhasil mengekspor produk asli Indonesia berkualitas melalui jaringan distribusi global yang luas.
+        Pangsa pasar PT Dua Kelinci tersebar di Asia, Australia, Afrika, Timur Tengah, Eropa, dan Amerika Utara.</string>
+    <string name="deskripsiwp3">Wajan dan alat penghangat makanan yang terbuat dari tanah liat ini atau yang biasa disebut
+        Angkringan menyediakan kuliner nasi gandul yang merupakan ciri khas makanan daerah Pati</string>
+    <string name="deskripsiwp4">Sebagai bukti pelestarian cagar budaya, Waroeng Pati memiliki sebuah Joglo
+        atau biasa dikenal dengan rumah adat jawa yang berfungsi sebagai penghias area teras. Joglo yang umurnya
+        sudah mencapai 100 tahun lebih ini memiliki fondasi atap yang khas, menjadikan signature khas jawa yang hingga
+        kini terus dilestarikan oleh masyarakat Indonesia.</string>
+    <string name="deskripsikios2">Kios Dua Kelinci menghadirkan berbagai macam paket produk dan merchendise dari PT Dua Kelinci.
+        Paket tersebut dapat dibeli secara offline di kios dua kelinci maupun secara online di alamat kioskelinci.com </string>
+    <string name="isipaketb">
+        Isi paket : \n
+        1 x Katom Polong 80g \n
+        1 x Pilus RL 100g  \n
+        1 x Shanghai Deka 90g \n
+        1 x Rege Mix 30g \n
+        1 x Kacang Telur 18g \n
+        1 x Marning Pedas Manis 35g \n
+        1 x Hotnut 12g (Cabe, Jagung)
+    </string>
+    <string name="isipaketekonomis">
+        Isi paket : \n
+        2 x Hotnut Jagung 7g \n
+        13 x Sukro BBQ 7g \n
+        2 x Mixnut 7g \n
+        2 x Hotnut Cabe 7g \n
+        13 x Tictac Mix Max 7g \n
+        13 x Tictac Ayam 7g \n
+    </string>
+    <string name="isipaketbiji">
+        Isi Paket : \n
+        1 x Hot Nut Jagung 35g \n
+        2 x Koroku 30g (random)\n
+        1 x Polongku 35g    \n
+        1 x Polongmas 35g   \n
+        2 x Marningku 35g (random) \n
+        1 x Lofet 37g
+    </string>
+    <string name="isipakethajatan">
+        Isi Paket : \n
+        2 x Hotnut Jagung 7g \n
+        2 x Hotnut Cabe 7g \n
+        5 x Tic tac Ayam 7g \n
+        5 x Sukro BBQ 7g \n
+        2 x Mixnut 7g \n
+        5 x Tic tac Mix Max 7g
+    </string>
+    <string name="promo">Harga Spesial Untuk Nasi Gandul dan Soto</string>
+</resources>
